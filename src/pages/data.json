@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Avengers Black Widow",
+      "link": "/Images/MovieLogo.jpeg",
+      "category1": "Action",
+      "category2": "blockbuster",
+      "abtTr": "",
+      "watchlists": "590,97,254",
+      "streams": "21,452",
+      "date": "21 May, 2003"
+    },
+    {
+      "name": "After Hours",
+      "link": "/Images/MovieLogo.jpeg",
+      "category1": "Horror",
+      "category2": "CRIME",
+      "abtTr": "opacity-0",
+      "watchlists": "88,458,892",
+      "streams": "32,892",
+      "date": "21 May, 2003"
+    },
+    {
+      "name": "Ant-man",
+      "link": "/Images/MovieLogo.jpeg",
+      "category1": "Horror",
+      "category2": "CRIME",
+      "abtTr": "opacity-0",
+      "watchlists": "22,008,901",
+      "streams": "345,321",
+      "date": "21 May, 2003"
+    },
+    {
+      "name": "Captain Marvel",
+      "link": "/Images/MovieLogo.jpeg",
+      "category1": "Action",
+      "category2": "fantasy",
+      "abtTr": "opacity-0",
+      "watchlists": "80,961",
+      "streams": "903",
+      "date": "21 May, 2003"
+    },
+    {
+      "name": "Grimsby",
+      "link": "/Images/MovieLogo.jpeg",
+      "category1": "Comedy",
+      "category2": "CRIME",
+      "abtTr": "",
+      "watchlists": "670,901",
+      "streams": "2,453",
+      "date": "21 May, 2003"
+    },
+    {
+      "name": "Moonlight",
+      "link": "/Images/MovieLogo.jpeg",
+      "category1": "True Story",
+      "category2": " hi",
+      "abtTr": "",
+      "lastCat": "opacity-0",
+      "watchlists": "56,893",
+      "streams": "24,512,232",
+      "date": "4th July, 2012"
+    }
+  ]

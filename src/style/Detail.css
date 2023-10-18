@@ -1,0 +1,58 @@
+/* Details.css */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  width: 22rem;
+  box-shadow: none;
+  margin-bottom: 2rem;
+}
+
+
+
+.Barpaper {
+  box-shadow: none;
+  width: 100%;
+  text-align: center;
+  padding: 1rem;
+  height: 20rem;
+}
+
+.title {
+  font-weight: bold;
+}
+
+
+/* Details.css */
+.bluePaper {
+  background-color: #b3e0f2;
+  /* Light blue background color */
+  padding: 16px;
+  width: auto;
+}
+
+.rightTextContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 100%;
+  margin-bottom: 1rem;
+}
+
+.barGraph {
+  margin-top: 16px;
+}
+
+.detailsText {
+  font-size: .875rem !important;
+  color: #6A6A6A;
+  line-height: 1.25rem !important;
+}
